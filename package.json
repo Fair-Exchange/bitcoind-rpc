@@ -30,7 +30,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/OleksandrBlack/bitcoind-rpc"
+    "url": "https://github.com/Fair-Exchange/bitcoind-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -47,7 +47,7 @@
     "sinon": "^1.12.2"
   },
   "bugs": {
-    "url": "https://github.com/OleksandrBlack/bitcoind-rpc/issues"
+    "url": "https://github.com/Fair-Exchange/bitcoind-rpc/issues"
   },
-  "homepage": "https://github.com/OleksandrBlack/bitcoind-rpc"
+  "homepage": "https://github.com/Fair-Exchange/bitcoind-rpc"
 }
